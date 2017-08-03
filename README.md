@@ -6,3 +6,5 @@ Caso não tenha um software para abrir o arquivo BlynkSimpleEsp8266_mod.h baixe 
 https://notepad-plus-plus.org/download/v7.4.2.html 
 
 Para ver o vídeo de apoio deste tutorial use este link https://youtu.be/N4Awmeg_Ry4
+
+Eu adiconei um botão que aciona o LED no GPIO 2 do modulo, dependendo de um valor que pode ser determinado pelo usuario.
